@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Osama Mohammed Elnagar.
 - 👀 I’m interested in mobile app development.
-- 🌱 I started my journy with Flutter about 3 years ago.
+- 🌱 I started my journy with Flutter since 2022.
 - 📫 You can reach me on
 Email: osamaelngar98@gmail.com.
 Whatsapp: https://wa.me/+201094157080
