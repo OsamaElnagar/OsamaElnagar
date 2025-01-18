@@ -3,8 +3,8 @@
 - 🌱 I started my journy with Flutter since 2022.
 - 📫 You can reach me on
 Email: osamaelngar98@gmail.com.
-Whatsapp: https://wa.me/+201094157080
-LinkedIn: linkedin.com/in/osama-m-elnagar-69909018b
+Whatsapp:https://wa.me/+201094157080
+LinkedIn:linkedin.com/in/osama-m-elnagar-69909018b
 Facebook:https://m.facebook.com/100039248505708/
 
 <!---
