@@ -81,7 +81,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/OsamaElnagar/OsamaElnagar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/OsamaElnagar/output/snake.svg" alt="Snake animation" />
 
 ###
 
