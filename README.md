@@ -81,7 +81,7 @@
 </div>
 ###
 
-<img src="https://raw.githubusercontent.com/OsamaElnagar/OsamaElnagar/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/OsamaElnagar/snake.svg" alt="Snake animation" />
 ###
 
 <br clear="both">
